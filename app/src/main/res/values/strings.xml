@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Project Firebase</string>
+    <string name="entrar">Entrar</string>
+    <string name="text_cadastro">Crie uma conta clicando aqui</string>
+    <string name="title_cadastro">Cadastre-se</string>
+
+    <!--String Array para as respostas de erro-->
+    <string-array name="mensagens_erro_sucesso_array">
+        <item>Preencha todos os campos</item>
+        <item>Cadastro realizado com sucesso</item>
+    </string-array>
+</resources>
